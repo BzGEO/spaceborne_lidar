@@ -15,7 +15,7 @@ For the occasionally coding challenged [including myself], I have included text 
 * GEDI-to-shapefile: https://github.com/BzGEO/spaceborne_lidar/blob/main/example__py_gedi.txt
 * ICESat2-to-shapefile: https://github.com/BzGEO/spaceborne_lidar/blob/main/example__py_icesat2.txt.
 
-## Source files on GIST
+## Source files on GitHub's GIST site
 * Kel Markert's original **GEDI-to-shapefile** script on GIST: https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3.
 * Ryan B. Avery's modified **GEDI-to-shapefile** script on GIST: https://gist.github.com/rbavery/6101923f32c34e3f7db2cbbb6e282ace.
 * Emil's **ICESat2-to-shapefile** script on GIST: https://gist.github.com/BzGEO/950f3db986b3513311ed42efe2395171.
