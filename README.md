@@ -1,4 +1,6 @@
 # Scripts for extracting NASA GEDI and ICESat-2 vegetation height data to shapefile format
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870574.svg)](https://doi.org/10.5281/zenodo.15870574)
+
 Scripts for extracting GEDI and ICESat-2 data from HDF to shapefiles
 
 ## Description: Why do I need these scripts?
