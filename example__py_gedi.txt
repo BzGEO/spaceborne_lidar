@@ -1,0 +1,4 @@
+cd\
+cd c:\scripts_R\_scripts_py\
+
+python gedi_shp_v2.py C:\gis\workspace\temp_2021\gedi\bz_gedi02_b\processed_2021-11\ --variables [latitude_bin0,longitude_bin0,height_bin0] --outFormat shp --filterBounds [-89.3,15.7,-87.7,18.6] --verbose

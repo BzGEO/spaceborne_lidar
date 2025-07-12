@@ -1,0 +1,4 @@
+cd\
+cd c:\scripts_R\_scripts_py\
+
+python icesat2_shp.py C:\gis\workspace\temp_2021\icesat2\bz\2021-11-19_h5 --variables [latitude,longitude,h_canopy] --outFormat shp --filterBounds [-89.3,15.7,-87.7,18.6] --verbose
