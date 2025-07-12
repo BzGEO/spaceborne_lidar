@@ -4,7 +4,7 @@
 Scripts for extracting GEDI and ICESat-2 data from HDF to shapefiles
 
 ## Description: Why do I need these scripts?
-*Scenario: You are a regular GIS user. You have downloaded **LARGE** HDF files from [NASA EarthData](https://search.earthdata.nasa.gov/search) from [GEDI](https://gedi.umd.edu/) and / or [ICESat-2](https://icesat-2.gsfc.nasa.gov/) and you just want to create shapefiles for use in [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview) or [QGIS](https://qgis.org/).* These scripts will allow you to extract out the canopy height metrics from said spaceborne LiDAR datasets.
+*Scenario: You are a regular GIS user. You have downloaded **LARGE** HDF  (.H5) files from [NASA EarthData](https://search.earthdata.nasa.gov/search) from [GEDI](https://gedi.umd.edu/) and / or [ICESat-2](https://icesat-2.gsfc.nasa.gov/) and you just want to create shapefiles for use in [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview) or [QGIS](https://qgis.org/).* These scripts will allow you to extract out the canopy height metrics from said spaceborne LiDAR datasets.
 
 ## Disclaimer
 I don't know how 🤷‍♂️ to get my [GIST](https://gist.github.com/BzGEO) files into a GitHub repo, so I have imported said files here directly. The **GEDI-to-shapefile** script was authored by [Dr. Kel Markert](https://github.com/KMarkert), while I was able to generate the **ICESat2-to-shapefile** script using some of the language used in a script from [Ryan Avery](https://github.com/rbavery).
